@@ -13,7 +13,8 @@ SVM, DecisionTree, RandomForest 모델들을 파라미터 튜닝을 통해 최�
 # Model
 ### SVM
 
-IMAGE!!!! <br>
+<img src = 'https://user-images.githubusercontent.com/77375223/118351034-8c62bb00-b594-11eb-8202-241b764f34e6.png' width = 500>
+
 
 Data들간의 집합을 통하여 선형 분류기로 분류 (Kernel Trick으로 비선형 Task에도 적용 가능)<br>
 
