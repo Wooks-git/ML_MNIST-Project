@@ -27,7 +27,7 @@ gamma : 1e-3, C : 10 사용
 
 ### Decision Tree
 
-IMAGE!!! <br>
+<img src ='https://user-images.githubusercontent.com/77375223/118351145-2cb8df80-b595-11eb-9bb1-8752940b43d8.png' width = 500>
 
 특정 기준(질문)에 따라 데이터를 분류 <br>
 
