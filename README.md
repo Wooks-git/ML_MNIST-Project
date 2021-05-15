@@ -50,5 +50,5 @@ test accuracy : 66%
 
 앙상블 : Bagging, max_depth : 8, n_estimators : 100
 
-validation : 80%
+validation : 80% <br>
 test accuracy : 81%
