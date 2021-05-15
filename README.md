@@ -41,6 +41,8 @@ max_depth : 9, max_features : 4, max_leaf_nodes : 37 사용
 
 validation : 64% <br>
 test accuracy : 66%
+<br>
+
 
 ### RandomForest Tree
 
