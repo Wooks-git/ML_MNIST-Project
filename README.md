@@ -23,6 +23,10 @@ Data들간의 집합을 통하여 선형 분류기로 분류 (Kernel Trick으로
 gamma, C로 모델의 복잡도 조절 가능 <br>
 
 gamma : 1e-3, C : 10 사용
+
+validation : 81% <br>
+test accuracy : 82%
+
 <br>
 
 ### Decision Tree
@@ -35,11 +39,16 @@ max_depth, max_leaf_nodes ... 등등 여러개의 규제 매개변수가 존재 
 
 max_depth : 9, max_features : 4, max_leaf_nodes : 37 사용
 
+validation : 64% <br>
+test accuracy : 66%
+
 ### RandomForest Tree
 
-IMAGE!!! <br>
+<img src = 'https://user-images.githubusercontent.com/77375223/118351202-802b2d80-b595-11eb-94f4-cd8108cfe07c.png' width = 500>
 
-결정트리를 앙상블 한 것.
+결정트리들을 앙상블 한 것.
 
-Bagging 방법을 사용했습니다. 
+앙상블 : Bagging, max_depth : 8, n_estimators : 100
 
+validation : 80%
+test accuracy : 81%
